@@ -7,3 +7,5 @@ with open('IBB_holdings.csv', 'r') as csvfile: #WINDOWS
 /OR/
 
 with open('IBB_holdings.csv', 'r', encoding='mac_roman', newline='') as csvfile:  #MAC
+
+Make sure you have the following librairies : os, csv, matplotlib, numpy, pandas_datareader, datetime, pandas
