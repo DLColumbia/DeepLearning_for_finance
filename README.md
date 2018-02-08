@@ -3,5 +3,7 @@
 NB: if first program on jupyter notebook does not work try with the following line of code (one works for MAC and the other for Windows)
 
 with open('IBB_holdings.csv', 'r') as csvfile: #WINDOWS
+
 /OR/
+
 with open('IBB_holdings.csv', 'r', encoding='mac_roman', newline='') as csvfile:  #MAC
