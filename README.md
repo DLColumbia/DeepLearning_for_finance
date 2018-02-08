@@ -1,4 +1,4 @@
-# DeepLearning_for_finance\n
+# DeepLearning_for_finance
 
 NB: if first program on jupyter notebook does not work try with the following line of code (one works for Windows and some MACs only)
 
